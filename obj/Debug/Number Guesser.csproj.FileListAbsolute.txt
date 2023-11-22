@@ -1,0 +1,16 @@
+C:\Users\bente\source\repos\Number Guesser\bin\Debug\Number Guesser.exe.config
+C:\Users\bente\source\repos\Number Guesser\bin\Debug\Number Guesser.exe
+C:\Users\bente\source\repos\Number Guesser\bin\Debug\Number Guesser.pdb
+C:\Users\bente\source\repos\Number Guesser\obj\Debug\Number Guesser.csproj.AssemblyReference.cache
+C:\Users\bente\source\repos\Number Guesser\obj\Debug\Number Guesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\bente\source\repos\Number Guesser\obj\Debug\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\bente\source\repos\Number Guesser\obj\Debug\Number Guesser.exe
+C:\Users\bente\source\repos\Number Guesser\obj\Debug\Number Guesser.pdb
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\bin\Debug\Number Guesser.exe.config
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\bin\Debug\Number Guesser.exe
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\bin\Debug\Number Guesser.pdb
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\obj\Debug\Number Guesser.csproj.AssemblyReference.cache
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\obj\Debug\Number Guesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\obj\Debug\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\obj\Debug\Number Guesser.exe
+C:\Users\bente\Desktop\coding projects\source\repos\Number Guesser\obj\Debug\Number Guesser.pdb
